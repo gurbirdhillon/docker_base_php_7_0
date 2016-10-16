@@ -5,7 +5,6 @@ RUN apt-get update
 
 RUN apt-get install -y --allow-unauthenticated \
     php7.0-cgi \
-    php7.0-fpm \
     php7.0-cli \
     php7.0-xsl \
     php7.0-common \
