@@ -20,7 +20,6 @@ RUN apt-get install -y --allow-unauthenticated \
     php7.0-pgsql \
     php7.0-pspell \
     php7.0-recode \
-    php7.0-snmp \
     php7.0-tidy \
     php7.0-dev \
     php7.0-curl \
